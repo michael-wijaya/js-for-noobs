@@ -1,3 +1,6 @@
+my name is michael wijaya
+my major is EEE
+nice to meet you
 function debounce(fn, timeout) {
   let _instance = null;
   return (...args) => {
